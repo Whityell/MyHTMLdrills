@@ -8,6 +8,7 @@
 <body>
    <!-- pics of grumpy Cats --> <h1> Grumpy Cat </h1>
         <p>I am 33 years old and originally from Alabama. I am from the Hueytown. I also lived in other areas of Birmingham metro area. </p>
+          
    <!-- pics of fat cats -->  <h2> Fat Cats </h2>
         <p>After I graduated from high school I moved to Huntsville for college. I stayed in college for three years but soon realized it wasnt for me. </p>
    <!-- lazy dog pics --> <h3> Lazy Dogs </h3>
