@@ -18,7 +18,7 @@
    <!-- crazy Squirrels pics --> <h5> Crazy Squirrels </h5>
         <p> Well as my professional life was going amazing my personal life was about to get crazy. I was about to have a baby. I was the self proclaimed drunk auntie. But all that was about to change. But who would have known that this new crazy being was going to change my life into something beautiful. </p>
    <!-- goldfish pics --> <h6> Man Eating Goldfish </h6> 
-        <p> Now I am a mom, chefing as a hobbie, and living life to its fullest. I am so excited about this new chapter in my life and cant wait to see what is next for me. NOTHING BUT GREATNESS COMING MY WAY. </p>
+        <p> Now I am a mom, chefing as a hobbie, and living life to its fullest. I am so excited about this new chapter in my life and cant wait to see what is next for me. NOTHING BUT GREATNESS COMING MY WAY. Lets do this. </p>
         
 </body>
 </html>
